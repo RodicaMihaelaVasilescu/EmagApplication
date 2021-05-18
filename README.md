@@ -1,0 +1,2 @@
+# EmagApplication
+Inspired by Emag
